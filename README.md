@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Loup%20brt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20en%20apprentissage%20%E2%80%A2%20C%23%20%E2%80%A2%20.NET&descAlignY=58&descSize=18" alt="Bannière" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8957e5&height=200&section=header&text=Loup%20brt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20en%20apprentissage%20%E2%80%A2%20C%23%20%E2%80%A2%20.NET&descAlignY=58&descSize=18" alt="Bannière" />
 
 <a href="https://github.com/Loupenoupe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=600&color=2EA043&center=true&vCenter=true&width=600&lines=Salut+!+Je+m'appelle+Loup+!;Je+d%C3%A9couvre+le+d%C3%A9veloppement;Work+in+progress+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=600&color=CF9FFF&center=true&vCenter=true&width=600&lines=Salut+!+Je+m'appelle+Loup+!;Je+d%C3%A9couvre+le+d%C3%A9veloppement;Work+in+progress+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Localisation](https://img.shields.io/badge/📍_Amiens,_France-0d1117?style=for-the-badge)
-![Visites](https://komarev.com/ghpvc/?username=Loupenoupe&color=2ea043&style=for-the-badge&label=VISITES)
+
 
 </div>
 
@@ -32,8 +32,6 @@ Je suis en train de poser mes bases en **C#** à travers des petits projets cons
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
