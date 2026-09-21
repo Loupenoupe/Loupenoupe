@@ -79,6 +79,6 @@ Quand tu auras plus d'activité, tu pourras ajouter tes statistiques :
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=120&section=footer" alt="Footer" />
 
-*« Chaque ligne de code écrite est un pas de plus. »* ✨
+*« Mens sana in corpore sano. »* ✨
 
 </div>
