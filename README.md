@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Loup%20brt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20en%20apprentissage%20%E2%80%A2%20C%23%20%E2%80%A2%20.NET&descAlignY=58&descSize=18" alt="Bannière" />
 
 <a href="https://github.com/Loupenoupe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=600&lines=Salut+!;Je+d%C3%A9couvre+le+d%C3%A9veloppement;Work+in+progress+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=600&color=2EA043&center=true&vCenter=true&width=600&lines=Salut+!+Je+m'appelle+Loup+!;Je+d%C3%A9couvre+le+d%C3%A9veloppement;Work+in+progress+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
