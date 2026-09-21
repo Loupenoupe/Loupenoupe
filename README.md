@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Loup%20brt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20en%20apprentissage%20%E2%80%A2%20C%23%20%E2%80%A2%20.NET&descAlignY=58&descSize=18" alt="Bannière" />
 
 <a href="https://github.com/Loupenoupe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=600&lines=Salut+!+Moi+c%27est+Loup+%F0%9F%91%8B;Je+d%C3%A9couvre+le+d%C3%A9veloppement+en+C%23;Je+code+un+peu+plus+chaque+jour+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=600&lines=Salut+!+Moi+c%27est+Loup+%F0%9F%91%8B;Je+d%C3%A9couvre+le+d%C3%A9veloppement+en+C%23;Work+in+progress+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,12 +17,12 @@
 
 ## 👨‍💻 À propos de moi
 
-Je m'appelle **Loup**, je vis à **Amiens** et je me forme au développement logiciel.
-Je suis en train de poser mes bases avec **C#** et **.NET** à travers des petits projets console, et je m'amuse aussi à automatiser des tâches avec des scripts.
+Je m'appelle **Loup**, je vis à **Amiens** et je me forme au développement logiciel et au réseaux.
+Je suis en train de poser mes bases en **C#** à travers des petits projets console, et je m'amuse aussi à automatiser des tâches avec des scripts.
 
 - 🌱 **En ce moment, j'apprends :** C#, .NET, Git & GitHub
 - 🔨 **Je construis :** des applications console pour progresser pas à pas
-- 🎯 **Mon objectif :** devenir un développeur solide et polyvalent
+- 🎯 **Mon objectif :** devenir un développeur solide et polyvalent avec des connaissances en réseaux
 - 💬 **Parlez-moi de :** code, projets, entraide et bons plans pour progresser
 
 ---
@@ -46,9 +46,6 @@ Je suis en train de poser mes bases avec **C#** et **.NET** à travers des petit
 | Projet | Description | Techno |
 |--------|-------------|--------|
 | [**ConsoleApp1MiniProjetBulletinPaye**](https://github.com/Loupenoupe/ConsoleApp1MiniProjetBulletinPaye) | Mini-projet console : génération d'un bulletin de paie | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| [**ConsoleAppExoMoyenne**](https://github.com/Loupenoupe/ConsoleAppExoMoyenne) | Exercice d'entraînement : calcul de moyenne | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| [**script-de-sauvegarde**](https://github.com/Loupenoupe/script-de-sauvegarde) | Script pour automatiser la sauvegarde de fichiers | ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white) |
-
 ---
 
 ## 🚀 Feuille de route
@@ -57,7 +54,7 @@ Je suis en train de poser mes bases avec **C#** et **.NET** à travers des petit
 - [x] Réaliser mes premières applications console en C#
 - [x] Écrire un premier script d'automatisation
 - [ ] Approfondir la programmation orientée objet
-- [ ] Découvrir les bases de données (SQL)
+- [ ] Apprendre à gérer les bases de données (SQL)
 - [ ] Construire un projet plus ambitieux (API, application web…)
 
 ---
