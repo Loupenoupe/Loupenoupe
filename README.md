@@ -20,14 +20,14 @@
 Je m'appelle **Loup**, je vis à **Amiens** et je me forme au développement logiciel et au réseaux.
 Je suis en train de poser mes bases en **C#** à travers des petits projets console, et je m'amuse aussi à automatiser des tâches avec des scripts.
 
-- 🌱 **En ce moment, j'apprends :** C#, .NET, Git & GitHub
-- 🔨 **Je construis :** des applications console pour progresser pas à pas
-- 🎯 **Mon objectif :** devenir un développeur solide et polyvalent avec des connaissances en réseaux
-- 💬 **Parlez-moi de :** code, projets, entraide et bons plans pour progresser
+- **En ce moment, j'apprends :** C#, .NET, Git & GitHub
+- **Je construis :** des applications console pour progresser pas à pas
+- **Mon objectif :** devenir un développeur solide et polyvalent avec des connaissances en réseaux
+- **Parlez-moi de :** code, projets, entraide et bons plans pour progresser
 
 ---
 
-## 🛠️ Ma boîte à outils
+## Ma boîte à outils
 
 <div align="center">
 
@@ -39,14 +39,14 @@ Je suis en train de poser mes bases en **C#** à travers des petits projets cons
 
 ---
 
-## 📂 Mes projets
+## Mes projets
 
 | Projet | Description | Techno |
 |--------|-------------|--------|
 | [**ConsoleApp1MiniProjetBulletinPaye**](https://github.com/Loupenoupe/ConsoleApp1MiniProjetBulletinPaye) | Mini-projet console : génération d'un bulletin de paie | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 ---
 
-## 🚀 Feuille de route
+## Feuille de route
 
 - [x] Créer mon compte GitHub et mes premiers dépôts
 - [x] Réaliser mes premières applications console en C#
@@ -57,7 +57,7 @@ Je suis en train de poser mes bases en **C#** à travers des petits projets cons
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 <div align="center">
 
