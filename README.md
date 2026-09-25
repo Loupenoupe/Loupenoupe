@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8957e5&height=250&section=header&text=Loup%20&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20en%20apprentissage%20%E2%80%A2%20C%23%20%&descAlignY=58&descSize=18" alt="Bannière" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8957e5&height=250&section=header&text=Loup%20&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Apprenti%20D%C3%A9veloppeur%20en%20%20%E2%80%A2%20C%23%20%&descAlignY=58&descSize=18" alt="Bannière" />
 
 <a href="https://github.com/Loupenoupe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=600&color=CF9FFF&center=true&vCenter=true&width=600&lines=Salut+!+Je+m'appelle+Loup+!;Je+d%C3%A9couvre+le+d%C3%A9veloppement;Work+in+progress+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=600&color=CF9FFF&center=true&vCenter=true&width=500&lines=Salut,+Je+m'appelle+Loup+!;Je+d%C3%A9couvre+le+d%C3%A9veloppement;Work+in+progress+..." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Localisation](https://img.shields.io/badge/📍_Amiens,_France-0d1117?style=for-the-badge)
+![Localisation](https://img.shields.io/badge/Édouard_Gand,_BTS_SIO_📍_Amiens_France-0d1117?style=for-the-badge)
 
 
 </div>
 
 ---
 
-## 👨‍💻 À propos de moi
+##  À propos de moi
 
 Je m'appelle **Loup**, je vis à **Amiens** et je me forme au développement logiciel et au réseaux.
 Je suis en train de poser mes bases en **C#** à travers des petits projets console, et je m'amuse aussi à automatiser des tâches avec des scripts.
@@ -47,17 +47,6 @@ Je suis en train de poser mes bases en **C#** à travers des petits projets cons
 | Projet en cours... | Interface graphique du mini-projet console : génération d'un bulletin de paie  | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 ---
 
-## Feuille de route
-
-- [x] Créer mon compte GitHub et mes premiers dépôts
-- [x] Réaliser mes premières applications console en C#
-- [x] Écrire un premier script d'automatisation
-- [ ] Approfondir la programmation orientée objet
-- [ ] Apprendre à gérer les bases de données (SQL)
-- [ ] Construire un projet plus ambitieux (API, application web…)
-
----
-
 ## Me contacter
 
 <div align="center">
@@ -78,7 +67,7 @@ Quand tu auras plus d'activité, tu pourras ajouter tes statistiques :
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&0:0d1117,100:8957e5&height=120&section=footer" alt="Footer" />
 
 *« Mens sana in corpore sano. »* ✨
 
