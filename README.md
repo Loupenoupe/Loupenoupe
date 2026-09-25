@@ -23,7 +23,6 @@ Je suis en train de poser mes bases en **C#** à travers des petits projets cons
 - **En ce moment, j'apprends :** C#, .NET, Git & GitHub
 - **Je construis :** des applications console pour progresser pas à pas
 - **Mon objectif :** devenir un développeur solide et polyvalent avec des connaissances en réseaux
-- **Parlez-moi de :** code, projets, entraide et bons plans pour progresser
 
 ---
 
