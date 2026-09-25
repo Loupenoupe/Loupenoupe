@@ -44,6 +44,7 @@ Je suis en train de poser mes bases en **C#** à travers des petits projets cons
 | Projet | Description | Techno |
 |--------|-------------|--------|
 | [**ConsoleApp1MiniProjetBulletinPaye**](https://github.com/Loupenoupe/ConsoleApp1MiniProjetBulletinPaye) | Mini-projet console : génération d'un bulletin de paie | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+| Projet en cours... | Interface graphique du mini-projet console : génération d'un bulletin de paie  | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 ---
 
 ## Feuille de route
