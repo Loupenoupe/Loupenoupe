@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B2B,40:164B65,75:3B7952,100:8957E5&height=250&section=header&text=Loup%20&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Apprenti%20D%C3%A9veloppeur%20en%20%20%E2%80%A2%20C%23%20%&descAlignY=58&descSize=18" width="100%" alt="Bannière" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B2B,40:164B65,75:3B7952,100:8957E5&height=250&section=header&text=Loup%20&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Apprenti%20D%C3%A9veloppeur%20&descSize=18" width="100%" alt="Bannière" />
 
 <a href="https://github.com/Loupenoupe">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=600&color=91DCA0&center=true&vCenter=true&width=500&lines=Salut,+Je+m'appelle+Loup+!;Je+d%C3%A9couvre+le+d%C3%A9veloppement;Work+in+progress+..." alt="Typing SVG" />
